@@ -1,14 +1,14 @@
 cff-version: 1.2.0
-message: "If you use this code in your research, please cite our HICSS 2025 paper:"
+message: "If you use this code in your research, please cite the following paper:"
+type: conference-paper
 title: "GPU-Accelerated DCOPF using Gradient-Based Optimization"
 authors:
   - family-names: Rafiei
     given-names: Seide Saba
   - family-names: Chevalier
     given-names: Samuel
-type: conference-paper
-conference: Hawaii International Conference on System Sciences (HICSS)
+conference: "Hawaii International Conference on System Sciences (HICSS)"
 year: 2025
-date-released: 2025-01-10
 doi: 10.24251/HICSS.2025.378
 url: https://hdl.handle.net/10125/109220
+date-released: 2025-01-10

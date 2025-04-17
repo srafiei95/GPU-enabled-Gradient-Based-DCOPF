@@ -1,4 +1,4 @@
-# GPU-enabled Gradien-Based DCOPF
+# GPU-enabled Gradient-Based DCOPF
 This repository contains code for  loading three standard IEEE systems of 10000, 4601, and 2000 buses, functions and script to run all the simulations presented in the following work:
 *GPU-Accelerated DCOPF using Gradient-Based Optimization*
 The models are implemented in ```Julia-1.10``` Language, using the ```JuMP.jl``` library for mathematical programming. Optimization problems are solved with ```MOSEK``` and ```Gurobi``` for benchmarking against the gradient-based methods.

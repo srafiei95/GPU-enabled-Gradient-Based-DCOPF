@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code in your research, please cite the following paper:"
+title: "GPU-Accelerated DCOPF using Gradient-Based Optimization"
+authors:
+  - family-names: Rafiei
+    given-names: Seide Saba
+  - family-names: Chevalier
+    given-names: Samuel
+date-released: 2025-01-10
+version: 1.0.0
+doi: 10.24251/HICSS.2025.378
+url: https://github.com/srafiei95/GPU-enabled-Gradient-Based-DCOPF
